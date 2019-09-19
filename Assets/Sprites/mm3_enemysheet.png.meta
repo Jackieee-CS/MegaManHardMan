@@ -1,0 +1,5621 @@
+fileFormatVersion: 2
+guid: 916eacbe061607f4483c51b1f9fe5087
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7190490576029815098
+    second: mm3_enemysheet_0
+  - first:
+      213: -6035924443435826407
+    second: mm3_enemysheet_1
+  - first:
+      213: 466314961416702099
+    second: mm3_enemysheet_2
+  - first:
+      213: -5842672452506809262
+    second: mm3_enemysheet_3
+  - first:
+      213: 625951930193456180
+    second: mm3_enemysheet_4
+  - first:
+      213: 2972803696737188773
+    second: mm3_enemysheet_5
+  - first:
+      213: 2091917221805758233
+    second: mm3_enemysheet_6
+  - first:
+      213: 2054232640381965079
+    second: mm3_enemysheet_7
+  - first:
+      213: 2639587412365193504
+    second: mm3_enemysheet_8
+  - first:
+      213: 269486801283368356
+    second: mm3_enemysheet_9
+  - first:
+      213: 5116672492691633818
+    second: mm3_enemysheet_10
+  - first:
+      213: 5815288358375022260
+    second: mm3_enemysheet_11
+  - first:
+      213: -4381329774225578340
+    second: mm3_enemysheet_12
+  - first:
+      213: 3284844539168114630
+    second: mm3_enemysheet_13
+  - first:
+      213: -3820074939410227882
+    second: mm3_enemysheet_14
+  - first:
+      213: -7632976291925884934
+    second: mm3_enemysheet_15
+  - first:
+      213: -7916411377541142299
+    second: mm3_enemysheet_16
+  - first:
+      213: -44998851210790427
+    second: mm3_enemysheet_17
+  - first:
+      213: 4204647138650199023
+    second: mm3_enemysheet_18
+  - first:
+      213: 7622668682696935963
+    second: mm3_enemysheet_19
+  - first:
+      213: 2351121703330651818
+    second: mm3_enemysheet_20
+  - first:
+      213: 5321350193867050208
+    second: mm3_enemysheet_21
+  - first:
+      213: -6236448953660980043
+    second: mm3_enemysheet_22
+  - first:
+      213: 155049001452959857
+    second: mm3_enemysheet_23
+  - first:
+      213: 9209836596843208549
+    second: mm3_enemysheet_24
+  - first:
+      213: 5041700064376198815
+    second: mm3_enemysheet_25
+  - first:
+      213: -8172397561961923093
+    second: mm3_enemysheet_26
+  - first:
+      213: -3039872160541630817
+    second: mm3_enemysheet_27
+  - first:
+      213: -7778697190990680544
+    second: mm3_enemysheet_28
+  - first:
+      213: -7218968334533262862
+    second: mm3_enemysheet_29
+  - first:
+      213: 301291278472850440
+    second: mm3_enemysheet_30
+  - first:
+      213: 4568797215688791980
+    second: mm3_enemysheet_31
+  - first:
+      213: -1818192183652128905
+    second: mm3_enemysheet_32
+  - first:
+      213: 6986719376348909578
+    second: mm3_enemysheet_33
+  - first:
+      213: -8846160009642296789
+    second: mm3_enemysheet_34
+  - first:
+      213: 6203040902841532291
+    second: mm3_enemysheet_35
+  - first:
+      213: -3970613145982875304
+    second: mm3_enemysheet_36
+  - first:
+      213: 2445294534088068236
+    second: mm3_enemysheet_37
+  - first:
+      213: 5813734693732533883
+    second: mm3_enemysheet_38
+  - first:
+      213: -1225134378681414515
+    second: mm3_enemysheet_39
+  - first:
+      213: -3829668147226216836
+    second: mm3_enemysheet_40
+  - first:
+      213: -8670326987054927924
+    second: mm3_enemysheet_41
+  - first:
+      213: -2768820663876174720
+    second: mm3_enemysheet_42
+  - first:
+      213: -155161959855851418
+    second: mm3_enemysheet_43
+  - first:
+      213: -6549382501187449030
+    second: mm3_enemysheet_44
+  - first:
+      213: 2152539289883632642
+    second: mm3_enemysheet_45
+  - first:
+      213: -7092795231640622939
+    second: mm3_enemysheet_46
+  - first:
+      213: 2233242100706655588
+    second: mm3_enemysheet_47
+  - first:
+      213: 2194749729244383931
+    second: mm3_enemysheet_48
+  - first:
+      213: 1943374850885784648
+    second: mm3_enemysheet_49
+  - first:
+      213: -2284197882358193585
+    second: mm3_enemysheet_50
+  - first:
+      213: 2530047816780468805
+    second: mm3_enemysheet_51
+  - first:
+      213: -7642499064531322368
+    second: mm3_enemysheet_52
+  - first:
+      213: 3164477834938069264
+    second: mm3_enemysheet_53
+  - first:
+      213: -2513674575343653689
+    second: mm3_enemysheet_54
+  - first:
+      213: -5828848504672863436
+    second: mm3_enemysheet_55
+  - first:
+      213: -1938415801295996476
+    second: mm3_enemysheet_56
+  - first:
+      213: 2815470188525673112
+    second: mm3_enemysheet_57
+  - first:
+      213: 2190426786880429023
+    second: mm3_enemysheet_58
+  - first:
+      213: -258443320037043578
+    second: mm3_enemysheet_59
+  - first:
+      213: -3644467079409627917
+    second: mm3_enemysheet_60
+  - first:
+      213: 7116435691866223684
+    second: mm3_enemysheet_61
+  - first:
+      213: -2418616519246669205
+    second: mm3_enemysheet_62
+  - first:
+      213: -2942971012960873769
+    second: mm3_enemysheet_63
+  - first:
+      213: 4069806393145741073
+    second: mm3_enemysheet_64
+  - first:
+      213: -3675151528924862639
+    second: mm3_enemysheet_65
+  - first:
+      213: -1929002697304394695
+    second: mm3_enemysheet_66
+  - first:
+      213: 7975681584921431237
+    second: mm3_enemysheet_67
+  - first:
+      213: -4507864861708338193
+    second: mm3_enemysheet_68
+  - first:
+      213: -5260863798747030486
+    second: mm3_enemysheet_69
+  - first:
+      213: 1544811542654613305
+    second: mm3_enemysheet_70
+  - first:
+      213: 5532077759771526041
+    second: mm3_enemysheet_71
+  - first:
+      213: 6604660122063558962
+    second: mm3_enemysheet_72
+  - first:
+      213: 1767743569735007197
+    second: mm3_enemysheet_73
+  - first:
+      213: 4285906522426672133
+    second: mm3_enemysheet_74
+  - first:
+      213: 1866032672958415258
+    second: mm3_enemysheet_75
+  - first:
+      213: -7192608055779411392
+    second: mm3_enemysheet_76
+  - first:
+      213: -4379283629253142069
+    second: mm3_enemysheet_77
+  - first:
+      213: -4781951818456396173
+    second: mm3_enemysheet_78
+  - first:
+      213: 4199748216553648257
+    second: mm3_enemysheet_79
+  - first:
+      213: 6817318551414677935
+    second: mm3_enemysheet_80
+  - first:
+      213: 7586680674511058506
+    second: mm3_enemysheet_81
+  - first:
+      213: -1543902103000223419
+    second: mm3_enemysheet_82
+  - first:
+      213: -7173473467314845030
+    second: mm3_enemysheet_83
+  - first:
+      213: 6910768131471505226
+    second: mm3_enemysheet_84
+  - first:
+      213: 4116019887704843772
+    second: mm3_enemysheet_85
+  - first:
+      213: -6713513067944042860
+    second: mm3_enemysheet_86
+  - first:
+      213: -4433731338017105658
+    second: mm3_enemysheet_87
+  - first:
+      213: 897242660952185775
+    second: mm3_enemysheet_88
+  - first:
+      213: 1004989147721768354
+    second: mm3_enemysheet_89
+  - first:
+      213: -534169478431951203
+    second: mm3_enemysheet_90
+  - first:
+      213: 3495146295615485358
+    second: mm3_enemysheet_91
+  - first:
+      213: -6899668316610136567
+    second: mm3_enemysheet_92
+  - first:
+      213: 1577454083070502993
+    second: mm3_enemysheet_93
+  - first:
+      213: -5101056263797614381
+    second: mm3_enemysheet_94
+  - first:
+      213: -1360231054389213856
+    second: mm3_enemysheet_95
+  - first:
+      213: 7798687613473088191
+    second: mm3_enemysheet_96
+  - first:
+      213: -2432113549800247676
+    second: mm3_enemysheet_97
+  - first:
+      213: -1224183830053881689
+    second: mm3_enemysheet_98
+  - first:
+      213: 6385074872025597125
+    second: mm3_enemysheet_99
+  - first:
+      213: 5538971224964235908
+    second: mm3_enemysheet_100
+  - first:
+      213: 5937967322396398675
+    second: mm3_enemysheet_101
+  - first:
+      213: 7796009501016640415
+    second: mm3_enemysheet_102
+  - first:
+      213: -4667358829499283225
+    second: mm3_enemysheet_103
+  - first:
+      213: -303459689049876780
+    second: mm3_enemysheet_104
+  - first:
+      213: -204227352352029745
+    second: mm3_enemysheet_105
+  - first:
+      213: -4871968259723672101
+    second: mm3_enemysheet_106
+  - first:
+      213: 667071178141535567
+    second: mm3_enemysheet_107
+  - first:
+      213: -1932000047273627517
+    second: mm3_enemysheet_108
+  - first:
+      213: 6551806633026004461
+    second: mm3_enemysheet_109
+  - first:
+      213: -6556950430875386647
+    second: Chomp1
+  - first:
+      213: 2627781016405254937
+    second: Chomp2
+  - first:
+      213: 3982343414430887877
+    second: Whirl0
+  - first:
+      213: -6086938715306449335
+    second: Whirl1
+  - first:
+      213: -3260925395558671245
+    second: Whirl2
+  - first:
+      213: -6217558431080857439
+    second: Whirl3
+  - first:
+      213: 6399890531300270935
+    second: Whirl4
+  - first:
+      213: -9001773511375733263
+    second: Whirl5
+  - first:
+      213: -2863875862620840611
+    second: Whirl6
+  - first:
+      213: 6914043600593640702
+    second: Whirl7
+  - first:
+      213: 8650710732745949266
+    second: Whirl8
+  - first:
+      213: -1970388272533527021
+    second: WhirlThrow
+  - first:
+      213: 734195433144747778
+    second: Ball1
+  - first:
+      213: -5694979839459764587
+    second: ball2
+  - first:
+      213: -6895438396418505597
+    second: mm3_enemysheet_124
+  - first:
+      213: -4232367726105140598
+    second: mm3_enemysheet_125
+  - first:
+      213: -5243928309872709182
+    second: mm3_enemysheet_126
+  - first:
+      213: -837975647761004231
+    second: mm3_enemysheet_127
+  - first:
+      213: 6723336687889751811
+    second: mm3_enemysheet_128
+  - first:
+      213: 6912436147218670114
+    second: mm3_enemysheet_129
+  - first:
+      213: 7041196418284964482
+    second: mm3_enemysheet_130
+  - first:
+      213: -7108349566170111218
+    second: mm3_enemysheet_131
+  - first:
+      213: -7389834960021592218
+    second: mm3_enemysheet_132
+  - first:
+      213: 1445307855244453276
+    second: mm3_enemysheet_133
+  - first:
+      213: -1470618611847945761
+    second: mm3_enemysheet_134
+  - first:
+      213: 8703769485294007235
+    second: mm3_enemysheet_135
+  - first:
+      213: 8239465524693802487
+    second: mm3_enemysheet_136
+  - first:
+      213: 5269207488631881686
+    second: mm3_enemysheet_137
+  - first:
+      213: 2946510918399847028
+    second: mm3_enemysheet_138
+  - first:
+      213: -6888994853312361882
+    second: mm3_enemysheet_139
+  - first:
+      213: -2996325132390468195
+    second: mm3_enemysheet_140
+  - first:
+      213: -913624157229405275
+    second: mm3_enemysheet_141
+  - first:
+      213: -5152921284244892637
+    second: mm3_enemysheet_142
+  - first:
+      213: -3636694220960839988
+    second: mm3_enemysheet_143
+  - first:
+      213: -1481567673996866205
+    second: mm3_enemysheet_144
+  - first:
+      213: 859544669912334929
+    second: mm3_enemysheet_145
+  - first:
+      213: -1369955084205545269
+    second: mm3_enemysheet_146
+  - first:
+      213: 3770309223883837919
+    second: mm3_enemysheet_147
+  - first:
+      213: 8107227449562694440
+    second: mm3_enemysheet_148
+  - first:
+      213: 6403221913637556347
+    second: mm3_enemysheet_149
+  - first:
+      213: 2160079787484292621
+    second: mm3_enemysheet_150
+  - first:
+      213: 5231191160316449639
+    second: mm3_enemysheet_151
+  - first:
+      213: 5311043134980923115
+    second: mm3_enemysheet_152
+  - first:
+      213: 8247973821362596356
+    second: mm3_enemysheet_153
+  - first:
+      213: -2672135057276305334
+    second: mm3_enemysheet_154
+  - first:
+      213: -6807010195565676732
+    second: mm3_enemysheet_155
+  - first:
+      213: 7934278266831879875
+    second: mm3_enemysheet_156
+  - first:
+      213: 5483734862663296982
+    second: mm3_enemysheet_157
+  - first:
+      213: -1728420142077992693
+    second: mm3_enemysheet_158
+  - first:
+      213: 8372892696927929921
+    second: mm3_enemysheet_159
+  - first:
+      213: 8535938725486954598
+    second: mm3_enemysheet_160
+  - first:
+      213: 9218610810825005716
+    second: mm3_enemysheet_161
+  - first:
+      213: -5445972719507158608
+    second: mm3_enemysheet_162
+  - first:
+      213: -1661538815861081285
+    second: mm3_enemysheet_163
+  - first:
+      213: -3946213647212646684
+    second: mm3_enemysheet_164
+  - first:
+      213: -2177964551277311707
+    second: mm3_enemysheet_165
+  - first:
+      213: -3752219897806387219
+    second: mm3_enemysheet_166
+  - first:
+      213: 3983866004662940128
+    second: mm3_enemysheet_167
+  - first:
+      213: 309458740151556670
+    second: mm3_enemysheet_168
+  - first:
+      213: 6936345014066974873
+    second: mm3_enemysheet_169
+  - first:
+      213: 3963180474615315891
+    second: mm3_enemysheet_170
+  - first:
+      213: 768854846827151148
+    second: mm3_enemysheet_171
+  - first:
+      213: 1196201166379421000
+    second: mm3_enemysheet_172
+  - first:
+      213: 7902451706862974499
+    second: mm3_enemysheet_173
+  - first:
+      213: 327258163659341090
+    second: mm3_enemysheet_174
+  - first:
+      213: 2886332415110280968
+    second: mm3_enemysheet_175
+  - first:
+      213: -683678950026214680
+    second: mm3_enemysheet_176
+  - first:
+      213: -7585451869386646567
+    second: mm3_enemysheet_177
+  - first:
+      213: 9096948513982268021
+    second: mm3_enemysheet_178
+  - first:
+      213: -6699319076792676501
+    second: mm3_enemysheet_179
+  - first:
+      213: 4616645590301368465
+    second: mm3_enemysheet_180
+  - first:
+      213: 430800520235883796
+    second: mm3_enemysheet_181
+  - first:
+      213: -7291500871772983548
+    second: mm3_enemysheet_182
+  - first:
+      213: 251528922879190767
+    second: mm3_enemysheet_183
+  - first:
+      213: 5992559837995463321
+    second: mm3_enemysheet_184
+  - first:
+      213: 5076765755992436210
+    second: mm3_enemysheet_185
+  - first:
+      213: -4180675225091364574
+    second: mm3_enemysheet_186
+  - first:
+      213: -4925276526112149731
+    second: mm3_enemysheet_187
+  - first:
+      213: -6594754441833756486
+    second: mm3_enemysheet_188
+  - first:
+      213: 9054789298492687217
+    second: mm3_enemysheet_189
+  - first:
+      213: -5658910322043553508
+    second: mm3_enemysheet_190
+  - first:
+      213: -5164097280568744860
+    second: mm3_enemysheet_191
+  - first:
+      213: 7252250266026711056
+    second: mm3_enemysheet_192
+  - first:
+      213: 351226795667939235
+    second: mm3_enemysheet_193
+  - first:
+      213: -909747637754316294
+    second: mm3_enemysheet_194
+  - first:
+      213: -6060409956413627773
+    second: mm3_enemysheet_195
+  - first:
+      213: 2265307561110362609
+    second: mm3_enemysheet_196
+  - first:
+      213: -777394383525150498
+    second: mm3_enemysheet_197
+  - first:
+      213: 5421703501834899991
+    second: mm3_enemysheet_198
+  - first:
+      213: 4230850978435395210
+    second: mm3_enemysheet_199
+  - first:
+      213: 5758729334002404618
+    second: mm3_enemysheet_200
+  - first:
+      213: 2092959875802424186
+    second: mm3_enemysheet_201
+  - first:
+      213: 6452230854721861043
+    second: mm3_enemysheet_202
+  - first:
+      213: -5650537815482714324
+    second: mm3_enemysheet_203
+  - first:
+      213: -5194479413767959755
+    second: mm3_enemysheet_204
+  - first:
+      213: -3236912851692880282
+    second: mm3_enemysheet_205
+  - first:
+      213: -5895697226342737532
+    second: mm3_enemysheet_206
+  - first:
+      213: 2834334723810949998
+    second: mm3_enemysheet_207
+  - first:
+      213: 5479237770660438027
+    second: mm3_enemysheet_208
+  - first:
+      213: -4492661976179125170
+    second: mm3_enemysheet_209
+  - first:
+      213: -7200767440333677282
+    second: mm3_enemysheet_210
+  - first:
+      213: -8680742514547240329
+    second: mm3_enemysheet_211
+  - first:
+      213: 3130413880785180539
+    second: mm3_enemysheet_212
+  - first:
+      213: -4102408034003230545
+    second: mm3_enemysheet_213
+  - first:
+      213: 2354665991000832209
+    second: mm3_enemysheet_214
+  - first:
+      213: -6850238677089656487
+    second: mm3_enemysheet_215
+  - first:
+      213: 2161131541266800640
+    second: mm3_enemysheet_216
+  - first:
+      213: -1600744884816365910
+    second: mm3_enemysheet_217
+  - first:
+      213: 31011940736954086
+    second: mm3_enemysheet_218
+  - first:
+      213: 3700467631595203169
+    second: mm3_enemysheet_219
+  - first:
+      213: -8204327190398544645
+    second: mm3_enemysheet_220
+  - first:
+      213: -1673957636099837615
+    second: mm3_enemysheet_221
+  - first:
+      213: 7812512457057534783
+    second: mm3_enemysheet_222
+  - first:
+      213: -3909236535081791095
+    second: mm3_enemysheet_223
+  - first:
+      213: -3380467222878328729
+    second: mm3_enemysheet_224
+  - first:
+      213: -2078367356491502875
+    second: mm3_enemysheet_225
+  - first:
+      213: -971025801623690909
+    second: mm3_enemysheet_226
+  - first:
+      213: 1279307386303299600
+    second: mm3_enemysheet_227
+  - first:
+      213: -7276075310364700006
+    second: mm3_enemysheet_228
+  - first:
+      213: -3309689976133145386
+    second: mm3_enemysheet_229
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mm3_enemysheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 477
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c7d6e2af027e48a0eb1c4e137ef4d
+      internalID: -7190490576029815098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 477
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7e260f12b13414fab0ac7b85fe7114
+      internalID: -6035924443435826407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 477
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f126542d78082745844cd844ca95f52
+      internalID: 466314961416702099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 477
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4e90f7568162a429e8d25c615ad4ac
+      internalID: -5842672452506809262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 477
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42963f0f3a1831840821808a40629dfe
+      internalID: 625951930193456180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 477
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a609b846b39d41f458ebbe14080f01a4
+      internalID: 2972803696737188773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 477
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c3bc9ffc25bc45a7293abfc46e2d1
+      internalID: 2091917221805758233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 477
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02af2936eedf4344a2419f2461be51e
+      internalID: 2054232640381965079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 477
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b35d8b62f391d41a42715f0bd44f86
+      internalID: 2639587412365193504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 477
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13279229f8d820344bf977b96acfeb3d
+      internalID: 269486801283368356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 477
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c22cf3f0612ba4cadf9628d17c4a25
+      internalID: 5116672492691633818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 472
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a167ccbec5974fa315d2b1edc9c8c
+      internalID: 5815288358375022260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 472
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31b8c14fae56b4fbd6096b715322b2
+      internalID: -4381329774225578340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 472
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ff3662bf5c62459ab37f7a811a7a3
+      internalID: 3284844539168114630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769cab0e04e5ceb429ff00bb24c6b480
+      internalID: -3820074939410227882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 451
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9988bc0889cf9c84bbcf6612e964e90a
+      internalID: -7632976291925884934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 451
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3738cb92077bb418355ca85d7d8f0a
+      internalID: -7916411377541142299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 451
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477af575615fba74b8648f9e5d7b6a45
+      internalID: -44998851210790427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 429
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9120bd5a52e3479417e6771d06099
+      internalID: 4204647138650199023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 429
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a324968209e2f4340bcd8c5d87c7908f
+      internalID: 7622668682696935963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 450
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f63a02ce761964e93b15a5d38d27c6
+      internalID: 2351121703330651818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 450
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67ee9e3715f2d4fbb1c11b2458de1b
+      internalID: 5321350193867050208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 450
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b9791cb4c58654dab258673fe8b3ee
+      internalID: -6236448953660980043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 450
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19e03fee19128542818de85d6bfafc8
+      internalID: 155049001452959857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 450
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a05ca6c97f13a44b645ec780b41bf3
+      internalID: 9209836596843208549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 450
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aea59658d2d494589c9d34685d9a9a
+      internalID: 5041700064376198815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 450
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7841a7e5494b43458b04ddf390109ce
+      internalID: -8172397561961923093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 437
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bcb9b65ca932b419dad4705d72c90e
+      internalID: -3039872160541630817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 437
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fcfc42ac7a08e4ca50bb1c4646a5f9
+      internalID: -7778697190990680544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 437
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d03fae3d67f0742978d507abb6a5c4
+      internalID: -7218968334533262862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 424
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6768e083fee92546aaae9bde58d0fef
+      internalID: 301291278472850440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 424
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e6f4e00ccf1b8489c65e2a209099ed
+      internalID: 4568797215688791980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 424
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6f70243eb28fb458bb53ae3ad47720
+      internalID: -1818192183652128905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 429
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0defd625eaf99b1479ad0aab714a4287
+      internalID: 6986719376348909578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 429
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ce93cdb3d6d5b43bdab385386fabd8
+      internalID: -8846160009642296789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 429
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186e1a25938aad469c655e38c295064
+      internalID: 6203040902841532291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 429
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825425c46066b7c46b47b59b3ce406d5
+      internalID: -3970613145982875304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_37
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 429
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cc0d21b57dd640b17776135644142
+      internalID: 2445294534088068236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 429
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b00daffda446d4689d8e6fc333b3cc
+      internalID: 5813734693732533883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 429
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c57580e4b2c2574ebe6515b2945cb66
+      internalID: -1225134378681414515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 429
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcae4e99130a45448ae4d5c35f92d78d
+      internalID: -3829668147226216836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 429
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb113e5c5bcbce04da521a5702f9948a
+      internalID: -8670326987054927924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0b772eed3d7d24a912df547f4735cd
+      internalID: -2768820663876174720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 394
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f590f3660b5b9f84fbba162c1708dd82
+      internalID: -155161959855851418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 394
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20129abb08391b54abd9419c311c2be5
+      internalID: -6549382501187449030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_45
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 424
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec6b0e48cc1fa54aad2447de54d541d
+      internalID: 2152539289883632642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 424
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9da8dcdbd618498e85d3f832807d6
+      internalID: -7092795231640622939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 410
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac614f78fc2f74da65330133495c6b
+      internalID: 2233242100706655588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_48
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 410
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee1847e76cb64488d598745e95d583
+      internalID: 2194749729244383931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 410
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0692d09aa2694299a689ed7335bef
+      internalID: 1943374850885784648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_50
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3465410496496bc44aab4b1ff22da17e
+      internalID: -2284197882358193585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_51
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfb11c46f0b1b240a5b8a0bb807c996
+      internalID: 2530047816780468805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85435a0d6c98bda4abfb6ca6949a6fc8
+      internalID: -7642499064531322368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_53
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 410
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce7b0644c1f704ea931df4ec2d7c20
+      internalID: 3164477834938069264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 410
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703b29e1efc0d0740b3db80cb57c6ceb
+      internalID: -2513674575343653689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_55
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 410
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513e66121deb68341887c6bf850bde2d
+      internalID: -5828848504672863436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 394
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddce4d92ed3d3e849b1efe4d37546bd4
+      internalID: -1938415801295996476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 394
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3baa25933aa748a13fc128a63aa20
+      internalID: 2815470188525673112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 394
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942725d243f2194a90d8f15ad14adc6
+      internalID: 2190426786880429023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 384
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872754436ceb05f4285f9a8f52a78d98
+      internalID: -258443320037043578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_60
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 384
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce510ffb6b65644a876940d900abc24
+      internalID: -3644467079409627917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023cbed88cb506248998134dde94e88e
+      internalID: 7116435691866223684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_62
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 384
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44ea5e63b329a24b8c153258f4a346c
+      internalID: -2418616519246669205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 384
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5121933aa0fdad499b5ef06fe22f560
+      internalID: -2942971012960873769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_64
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 384
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e88984564f3df4fa38d040fd728304
+      internalID: 4069806393145741073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_65
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febf9042e60124a4da79d4df099f9a1d
+      internalID: -3675151528924862639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d87d3d62fe50a1488c632a408b11876
+      internalID: -1929002697304394695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_67
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca0b2d9617f0464c9882fa857f8e624
+      internalID: 7975681584921431237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c5812d8cbf0c4b9a8fadae47791a9
+      internalID: -4507864861708338193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b418f00f932a79046b996cd7762766e5
+      internalID: -5260863798747030486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_70
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f492e31b5c0fb74d9ec013d1db68c5e
+      internalID: 1544811542654613305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_71
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2950b1cea9a5c04e94ce6c92003bd35
+      internalID: 5532077759771526041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_72
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dd3f1afd0b7714281ec1111380a3d1
+      internalID: 6604660122063558962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_73
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c7eb1384f2a8d45a88cda599dfbb29
+      internalID: 1767743569735007197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 360
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06849e5107317e4c9542bb128c2454a
+      internalID: 4285906522426672133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 360
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d301858cfa3c42aba1d006157cda3
+      internalID: 1866032672958415258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 360
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98cf19c375b56c4f8e09bc8469c6669
+      internalID: -7192608055779411392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_77
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 302
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d09d81edf897a45b4e74914c3e692b
+      internalID: -4379283629253142069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 302
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa4dc168e7068489a9d4416a743cf7
+      internalID: -4781951818456396173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_79
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 336
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8329f6044454f44e95ef93eba2923ed
+      internalID: 4199748216553648257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_80
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 336
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5edd535c0a2e242b232210625168bb
+      internalID: 6817318551414677935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_81
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 336
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4419d69ca74f1146ae54900a18ed33e
+      internalID: 7586680674511058506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_82
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676af914895d7b46b49479829d38878
+      internalID: -1543902103000223419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_83
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 352
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136a5b553691e343a9a3e7d849d4f76
+      internalID: -7173473467314845030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_84
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 352
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc39a81ff2d0d74aa191212a7488503
+      internalID: 6910768131471505226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_85
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 353
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc441918a0abe4abdad39e13c7cd19
+      internalID: 4116019887704843772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_86
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 353
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f782bc7c3bef0046a269909694b32f3
+      internalID: -6713513067944042860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_87
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 333
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdad3f62198ccb640ae1f1a8178f761c
+      internalID: -4433731338017105658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_88
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 333
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984890158f1839545ae9f3d6222afefb
+      internalID: 897242660952185775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_89
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 333
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5422553926724e97140c8ae3da0ec
+      internalID: 1004989147721768354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_90
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 333
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcff19e0a0fee54b9b549d0f3f47dc9
+      internalID: -534169478431951203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 313
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66dc5b3a456d042ad13b07ce9cbc57
+      internalID: 3495146295615485358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_92
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 313
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74b83398703d640b4bcea84224c4ef
+      internalID: -6899668316610136567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_93
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 313
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5377c7adc5612ea4784fe893ef0a35d3
+      internalID: 1577454083070502993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_94
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 313
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89a649c636cb9b4283bf78b0186232c
+      internalID: -5101056263797614381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 344
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba19fc0125958d42b6f565ecf049b04
+      internalID: -1360231054389213856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_96
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 325
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2627a501468bf849b6a335072caaca3
+      internalID: 7798687613473088191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_97
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 333
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b56d45ece96047b191a7c0cd34fbf
+      internalID: -2432113549800247676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_98
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 333
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a30d71cc35134e48871ec36aff13ef2
+      internalID: -1224183830053881689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 332
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d85043e95f4be5468827fb22858f274
+      internalID: 6385074872025597125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 334
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a67a29131b28ce47a7ac314d3011ce8
+      internalID: 5538971224964235908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_101
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 333
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082f950f83044845a2dc5e3ce217c86
+      internalID: 5937967322396398675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_102
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2679ffb860065374d98c31824f229e94
+      internalID: 7796009501016640415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_103
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 300
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0985baf280210478cf8c8792492c01
+      internalID: -4667358829499283225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_104
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 300
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e6b81b386c97459b0964b9877f013
+      internalID: -303459689049876780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_105
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 301
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46548d62adc994443997509e60b82877
+      internalID: -204227352352029745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_106
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 296
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761c8914418dbe34b8f9929baa7e7304
+      internalID: -4871968259723672101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_107
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 298
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c44cc2173520439939bdb26ccfa4e
+      internalID: 667071178141535567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_108
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 288
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d568048324844e88cd251ccfee3ee
+      internalID: -1932000047273627517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_109
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 288
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce80c2b93a069c408fd4b7e4291cc96
+      internalID: 6551806633026004461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomp1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 288
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517cb5d425783d4da98594357486458
+      internalID: -6556950430875386647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomp2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 288
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ec8a0bde932643ab171df1efb3d90
+      internalID: 2627781016405254937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 237
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2560473, y: 0.54003865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693a0b7cb5739954db706f1bcf3db012
+      internalID: 3982343414430887877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 237
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75b34b84192684fa033b9f8f8434c2
+      internalID: -6086938715306449335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 237
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3682981, y: 0.46222445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637d1d2159d4e6f488315c7df71677ca
+      internalID: -3260925395558671245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 237
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.24507108, y: 0.47603074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61310c28faadb024a9923103b30c2d4c
+      internalID: -6217558431080857439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 237
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.25793886, y: 0.5505746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3dca15d171b34baa68f170efaa629
+      internalID: 6399890531300270935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 237
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af1149860095cd45af82d2d3c430547
+      internalID: -9001773511375733263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 237
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.36039624, y: 0.48021343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3b7a0a37d0af48b50eb4a69d18472
+      internalID: -2863875862620840611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 237
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.24186441, y: 0.48893738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51839ff089deb4744a4fa550a7b6aa90
+      internalID: 6914043600593640702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirl8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 237
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.25604796, y: 0.5484672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e899ca5c83390e4199f815c94f871b4
+      internalID: 8650710732745949266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhirlThrow
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 237
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.46178982, y: 0.66612077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854a34e381e992b4ea5c6ff50e2fe228
+      internalID: -1970388272533527021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 250
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced49e2747733a40846655a37fea1c9
+      internalID: 734195433144747778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 250
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e125a57e79808b4fa5145e8ee55f435
+      internalID: -5694979839459764587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_124
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 239
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f0700b929fb344b4a0071fb01c5be
+      internalID: -6895438396418505597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_125
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd4d6b757e03ea4987901ea55947919
+      internalID: -4232367726105140598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_126
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a966395badf7903408f6d6565d283ce2
+      internalID: -5243928309872709182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 155
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7583c654a882da245a9bbe148aba889b
+      internalID: -837975647761004231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_128
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029c82e59ef38546a46413fbfcdf081
+      internalID: 6723336687889751811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_129
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86013046c0e09fa4cb81d9dcbb7a1960
+      internalID: 6912436147218670114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_130
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540404fd55a3d7c4c8aec5327bc0c825
+      internalID: 7041196418284964482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_131
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6afdf127e8b7a64db25187279e7dd23
+      internalID: -7108349566170111218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_132
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685d94a44c3fc646a3527d6d91d0733
+      internalID: -7389834960021592218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_133
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 155
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9566e094f4d0489067e58df680717
+      internalID: 1445307855244453276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_134
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 155
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de89578958a578b49928612a46a2ad79
+      internalID: -1470618611847945761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_135
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7380e24e79cb49b4a69a5aca62f52
+      internalID: 8703769485294007235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_136
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d705dc23f79dec4bbf86456c40814df
+      internalID: 8239465524693802487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_137
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa090510226824dbc3e4dcbc07f44e
+      internalID: 5269207488631881686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_138
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf39b9c1c616614aa864e2af0ade881
+      internalID: 2946510918399847028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_139
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3887c27d8aefb6041916d397b950dbaf
+      internalID: -6888994853312361882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_140
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 194
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393a85c7bc1baf4c8643a384348c1c5
+      internalID: -2996325132390468195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_141
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 202
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac1d77039110e478ca98a620959c38
+      internalID: -913624157229405275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_142
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 202
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77752d5e5436e4ea0a39cdfd77be75
+      internalID: -5152921284244892637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_143
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30252fbcc965e042aa85be87ffc821f
+      internalID: -3636694220960839988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_144
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 210
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ea1eb64e3b7a49ac97ebd3114b650
+      internalID: -1481567673996866205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_145
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 188
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8073690285b5a846bb2bd58da30ce64
+      internalID: 859544669912334929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_146
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 179
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5ee83dbc8bcb141b492d82fd939b6e
+      internalID: -1369955084205545269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_147
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a733e8b70ee784e8a462e29d990876
+      internalID: 3770309223883837919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_148
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32974060b183442970c7cc129b83f3
+      internalID: 8107227449562694440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_149
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 175
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c2ef03b7058d849b426a6d80e40689
+      internalID: 6403221913637556347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_150
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 182
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16d2fac3827cc947bc80ea1877c8144
+      internalID: 2160079787484292621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_151
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 182
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725bebde81141f45b037281101ed1f7
+      internalID: 5231191160316449639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_152
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 182
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364287775a87be640a0ccf64f5f897f8
+      internalID: 5311043134980923115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_153
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 182
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3543f2746087343499ecdc59a1ae1e99
+      internalID: 8247973821362596356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_154
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 182
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e2527f326f0524c88035ebe9f361af
+      internalID: -2672135057276305334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_155
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cae8af912d17cb499b7f6d69ab2f236
+      internalID: -6807010195565676732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_156
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 179
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6999d44ce31bfd4292a5a8b08029330
+      internalID: 7934278266831879875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_157
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd275f80850d64ba6ca56b290046ba
+      internalID: 5483734862663296982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_158
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1293c7776b15374d9f6243f2abee0cd
+      internalID: -1728420142077992693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_159
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b609316cdb8341874933ef6b94396
+      internalID: 8372892696927929921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_160
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb0d9062f923542b88979508113ec7
+      internalID: 8535938725486954598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_161
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0780ea4c6371c4b852d1b4dd75fdf8
+      internalID: 9218610810825005716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_162
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8639ab0b19ae4f64a89f4dd841c725cc
+      internalID: -5445972719507158608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_163
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092409848216d5741bd3e58cecfdc415
+      internalID: -1661538815861081285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_164
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af718dece90979c469316f21e3a68a08
+      internalID: -3946213647212646684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_165
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da561919016b20e478db580aeac9af92
+      internalID: -2177964551277311707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_166
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 146
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a6410f1d223c4fbacae557f29534a
+      internalID: -3752219897806387219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_167
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 146
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76302002a0c69994fb525e796e5c28fb
+      internalID: 3983866004662940128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_168
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 146
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb0c2d130af6f64fb6574851575b72e
+      internalID: 309458740151556670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_169
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 154
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3080c54b8956ba468e67701abc03372
+      internalID: 6936345014066974873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_170
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 155
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da290c3ab2533f4db600c780f9dadcf
+      internalID: 3963180474615315891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_171
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 155
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc31ba632d28aaa4fb457718aea3ba1f
+      internalID: 768854846827151148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_172
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 155
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7afc9bcb87ea2b40a2498f5f279977e
+      internalID: 1196201166379421000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_173
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 151
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a1c88c882bb23499c544a7f24ad103
+      internalID: 7902451706862974499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_174
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 151
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b6b62c2aae22942a07b8fca1c421d3
+      internalID: 327258163659341090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_175
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 151
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b9eb9c3ecc9ef4e9cfa0e543bc7cbf
+      internalID: 2886332415110280968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_176
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 93
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00f241f05909d24e85b62ed81d3892c
+      internalID: -683678950026214680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_177
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 93
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c403ec8908b9b4b91990fa9ef3364f
+      internalID: -7585451869386646567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_178
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef977988ce8262488396936fe57e40c
+      internalID: 9096948513982268021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_179
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31cfd3aafd663408ac25299db67882
+      internalID: -6699319076792676501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_180
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d554c8565b99dae41866b89753a11dfa
+      internalID: 4616645590301368465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_181
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 93
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a2c01d591e91246b70982701f27cef
+      internalID: 430800520235883796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_182
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 93
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d963b0235180d4fa670fe565f3c6d7
+      internalID: -7291500871772983548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_183
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c4ab4697376d49b81798788b0f8ed
+      internalID: 251528922879190767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_184
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 99
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a22e424af8334284223d761cbc9a0
+      internalID: 5992559837995463321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_185
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf3017e606504845b3994c4017cc185
+      internalID: 5076765755992436210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_186
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 99
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52906bdc458bba140bc78d35eaa69c0a
+      internalID: -4180675225091364574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_187
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 106
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525804008ee356b4a86fc29d3a700ec8
+      internalID: -4925276526112149731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_188
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 106
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd728d07d99b842a4478d009492c7d
+      internalID: -6594754441833756486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_189
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e9004fda4ad54292c58e6861d8340
+      internalID: 9054789298492687217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_190
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 103
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1cc36e5425347418c2a8d9a76ed523
+      internalID: -5658910322043553508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_191
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095bd620bb6c7142aae3890bac76201
+      internalID: -5164097280568744860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_192
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc153163b3a7f441a68c052b61a1bf7
+      internalID: 7252250266026711056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_193
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d21e83c3b48324b9c038a8557fd043
+      internalID: 351226795667939235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_194
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 105
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a28d77b935654aabc167ccf47de3f
+      internalID: -909747637754316294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_195
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630744348963714593ca26cfd1cde4a
+      internalID: -6060409956413627773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_196
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 48
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a021fe3345c34fbba1c5776272ce7
+      internalID: 2265307561110362609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_197
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 48
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f30e149224553478bdaf626a6048d8
+      internalID: -777394383525150498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_198
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee349546007d8374abe513e1e477d4d2
+      internalID: 5421703501834899991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_199
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1366bd4104194447aec3a0328fbb5cd
+      internalID: 4230850978435395210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_200
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b58f6ce93423b4e8793337bb4fca95
+      internalID: 5758729334002404618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_201
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0600c9219720043b2c96dfa2ecd257
+      internalID: 2092959875802424186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394e74d843027f499b4413ebfbe418a
+      internalID: 6452230854721861043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_203
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67edce576fbcc1247a3ca8e41aebccd5
+      internalID: -5650537815482714324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_204
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd11dd4cbf43314c92a9424d99c0d85
+      internalID: -5194479413767959755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_205
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 51
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49815da0d55515f49838dd08582b56af
+      internalID: -3236912851692880282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_206
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 51
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8e6368cfa0c840adb9444a769e326
+      internalID: -5895697226342737532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_207
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 51
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0311f6aef20594fb157d7bb0ad86ff
+      internalID: 2834334723810949998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_208
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 53
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed388d456eb9a4b8a95a1fc9c50b8b
+      internalID: 5479237770660438027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_209
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196114732d0a4e043809b84b0f3f8e49
+      internalID: -4492661976179125170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_210
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf63e4daa44b3941b16156322ea8b3d
+      internalID: -7200767440333677282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_211
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258956a920cd5ac499d600bb28a34a1e
+      internalID: -8680742514547240329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_212
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade885c5d5ebc17489ae3bfa37a00da9
+      internalID: 3130413880785180539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_213
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 29
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a142293475f24abc9c8165101a8a3
+      internalID: -4102408034003230545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_214
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f75e417f7a7a548984b50199430864
+      internalID: 2354665991000832209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_215
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ca91465d0d0b4b9fa50cd3267f386
+      internalID: -6850238677089656487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_216
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513187221aeda7748b371a1b5ab12a93
+      internalID: 2161131541266800640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_217
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987caf40769d1f241a448d8ea8cdaec2
+      internalID: -1600744884816365910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_218
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f47783f09dc304390c01775d88d12c
+      internalID: 31011940736954086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_219
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e17956d0e77b4cb0584b056a377ed
+      internalID: 3700467631595203169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_220
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98945082186099048b3aeb16161a9bc6
+      internalID: -8204327190398544645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_221
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4abfd10f7f80a4395d1e98522213df
+      internalID: -1673957636099837615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_222
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b2f7fcea5e344f99cfe1432b53722
+      internalID: 7812512457057534783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_223
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7022da61fc2d5f45b815a3cb6377f4f
+      internalID: -3909236535081791095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_224
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640c09ea6e593f4db241e93c96fb351
+      internalID: -3380467222878328729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_225
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c9b06c401b3048a98aa4f47d77e34
+      internalID: -2078367356491502875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_226
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f7b6f27cfde5d4c8d9c3ff580ea9dc
+      internalID: -971025801623690909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_227
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9f34b3ac6b3b438ab2bad1278a0f5
+      internalID: 1279307386303299600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_228
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f838b7b6e0694a849f16699f8aafe
+      internalID: -7276075310364700006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm3_enemysheet_229
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206752125c42f649a32fc2ac2a26012
+      internalID: -3309689976133145386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1e024bc239c0f241a689cc4eb431e7a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
